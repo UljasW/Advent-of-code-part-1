@@ -1,0 +1,16 @@
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\Advent of code 1 -submarine.exe
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\Advent of code 1 -submarine.deps.json
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\Advent of code 1 -submarine.runtimeconfig.json
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\Advent of code 1 -submarine.runtimeconfig.dev.json
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\Advent of code 1 -submarine.dll
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\ref\Advent of code 1 -submarine.dll
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\bin\Debug\net5.0\Advent of code 1 -submarine.pdb
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.csproj.AssemblyReference.cache
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.GeneratedMSBuildEditorConfig.editorconfig
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.AssemblyInfoInputs.cache
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.AssemblyInfo.cs
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.csproj.CoreCompileInputs.cache
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.dll
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\ref\Advent of code 1 -submarine.dll
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.pdb
+\\fs1.ad.ssis.nu\21ulwe\Desktop\Vscode repos\Advent of code 1 -submarine\obj\Debug\net5.0\Advent of code 1 -submarine.genruntimeconfig.cache
